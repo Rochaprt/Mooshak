@@ -4,23 +4,21 @@ public class EssentialH {
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
         int numero;
-        boolean naoprimo;
+        boolean primo;
 
         numero = ler.nextInt();
-        naoprimo = false;
+        primo = true;
 
-        for (int i = 1; i <= numero; i++) {
 
-            if (numero == 1) {
-                naoprimo = true;
-            } else {
-                if (numero % i == 0 && i != 1 && i != numero) {
-                    naoprimo = true;
-                }
+        for (int i = 2; i < numero/2; i++) {
+
+            if (numero % i == 0) {
+                primo = false;
             }
+
         }
 
-        if (naoprimo == false) {
+        if (primo && numero !=1) {
             System.out.println("prime");
         } else {
             System.out.println("not prime");
