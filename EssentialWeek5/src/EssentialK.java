@@ -9,22 +9,16 @@ public class EssentialK {
         n = sc.nextInt();
 
         for (int numero = 2; numero <= n; numero++) {
-
             isprime = true;
-
-            for (int i = 2; i < numero / 2; i++) {
+            for (int i = 2; i <= numero / 2 && isprime; i++) {
                 if (numero % i == 0) {
                     isprime = false;
                 }
             }
-
             if (isprime) {
                 System.out.println(numero);
             }
-
         }
-
     }
-
 }
 
