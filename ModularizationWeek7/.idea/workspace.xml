@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e2b595f8-3eaf-44e0-bbf6-0cb6df6a6f29" name="Changes" comment="" />
+    <list default="true" id="6bd101ef-af9d-499f-a597-cff35d9d7ce6" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,7 +20,7 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectId" id="2GwRX9Cigd9CqONfWHFikBUDll3" />
+  <component name="ProjectId" id="2GzFhCig95HjTC2rYmJcwQlikg1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -31,36 +31,40 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Main/IdeaProjects/EssentialWeek5"
+    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
   }
 }]]></component>
-  <component name="RunManager">
-    <configuration name="ExercicioTesteAprog" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="ExercicioTesteAprog" />
-      <module name="Exercicio Teste Aprog" />
+  <component name="RunManager" selected="Application.ModularizationK">
+    <configuration name="ModularizationJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModularizationJ" />
+      <module name="ModularizationWeek7" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ModularizationK" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ModularizationK" />
+      <module name="ModularizationWeek7" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ExercicioTesteAprog" />
+        <item itemvalue="Application.ModularizationK" />
+        <item itemvalue="Application.ModularizationJ" />
       </list>
     </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="e2b595f8-3eaf-44e0-bbf6-0cb6df6a6f29" name="Changes" comment="" />
-      <created>1667297698917</created>
+      <changelist id="6bd101ef-af9d-499f-a597-cff35d9d7ce6" name="Changes" comment="" />
+      <created>1667383623357</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1667297698917</updated>
-      <workItem from="1667297700064" duration="1853000" />
-      <workItem from="1667300990601" duration="2580000" />
-      <workItem from="1667309996351" duration="801000" />
-      <workItem from="1667333298257" duration="81000" />
-      <workItem from="1667333663645" duration="113000" />
+      <updated>1667383623357</updated>
+      <workItem from="1667383624654" duration="4666000" />
     </task>
     <servers />
   </component>

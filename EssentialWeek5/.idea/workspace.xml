@@ -26,15 +26,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "last_opened_file_path": "C:/Main/IdeaProjects/EssentialWeek5",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Main/IdeaProjects/EssentialWeek5&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.fonts.default&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager" selected="Application.EssentialJ">
     <configuration name="EssentialJ" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="EssentialJ" />
@@ -101,6 +101,11 @@
       <workItem from="1666451404438" duration="59000" />
       <workItem from="1666639294056" duration="31000" />
       <workItem from="1666643992841" duration="26000" />
+      <workItem from="1667311918333" duration="1230000" />
+      <workItem from="1667322438502" duration="2646000" />
+      <workItem from="1667332832352" duration="460000" />
+      <workItem from="1667333779145" duration="748000" />
+      <workItem from="1667383598377" duration="25000" />
     </task>
     <servers />
   </component>
