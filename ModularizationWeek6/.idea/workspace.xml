@@ -29,14 +29,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Main/IdeaProjects/EssentialWeek5&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "C:/Main/IdeaProjects/ModularizationWeek6"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Application.ModularizationI">
     <configuration name="ModularizationE" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ModularizationE" />
@@ -103,6 +103,7 @@
       <workItem from="1666783933035" duration="365000" />
       <workItem from="1666801383000" duration="2289000" />
       <workItem from="1667297651878" duration="47000" />
+      <workItem from="1667488964671" duration="191000" />
     </task>
     <servers />
   </component>
