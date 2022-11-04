@@ -8,7 +8,7 @@ public class ModularizationM {
 
         while (numero != 0) {
             countNumero++;
-            if (verificarUnico(numero)) {
+            if (verificarUnico(numero) == 0) {
                 System.out.println(numero);
                 countUnico++;
             }
@@ -25,9 +25,9 @@ public class ModularizationM {
         }
     }
 
-    public static boolean verificarUnico(int numero) {
+    public static int verificarUnico(int numero) {
         int alg1, alg2, numerocopia, numerocopia2, countalg1 = 0, countalg2;
-        boolean verificacao = true;
+        int verificacao = 0;
         numerocopia2 = numero;
 
         do {
@@ -41,10 +41,10 @@ public class ModularizationM {
                 alg2 = numerocopia % 10;
                 numerocopia = numerocopia / 10;
                 if (alg1 == alg2 && countalg2 != countalg1) {
-                    verificacao = false;
+                    verificacao++;
                 }
-            } while (numerocopia != 0);
-        } while (numero != 0);
+            } while (numerocopia != 0 && verificacao == 0);
+        } while (numero != 0 && verificacao == 0);
 
         return verificacao;
     }
