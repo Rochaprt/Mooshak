@@ -26,8 +26,7 @@ public class ModularizationM {
     }
 
     public static int verificarUnico(int numero) {
-        int alg1, alg2, numerocopia, numerocopia2, countalg1 = 0, countalg2;
-        int verificacao = 0;
+        int alg1, alg2, numerocopia, numerocopia2, countalg1 = 0, countalg2, verificacao = 0;
         numerocopia2 = numero;
 
         do {
