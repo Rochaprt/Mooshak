@@ -33,7 +33,7 @@
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraysB">
+  <component name="RunManager" selected="Application.ArraysD">
     <configuration name="ArraysA" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ArraysA" />
       <module name="ArraysWeek8" />
@@ -48,8 +48,24 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ArraysC" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysC" />
+      <module name="ArraysWeek8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ArraysD" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ArraysD" />
+      <module name="ArraysWeek8" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraysD" />
+        <item itemvalue="Application.ArraysC" />
         <item itemvalue="Application.ArraysB" />
         <item itemvalue="Application.ArraysA" />
       </list>
@@ -65,6 +81,8 @@
       <updated>1667833392658</updated>
       <workItem from="1667833393798" duration="51000" />
       <workItem from="1667844208291" duration="3030000" />
+      <workItem from="1667853072840" duration="3142000" />
+      <workItem from="1667861591728" duration="3126000" />
     </task>
     <servers />
   </component>
